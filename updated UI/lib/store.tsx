@@ -3,6 +3,7 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 import { useToast } from '@/components/ui/Toast';
 import { Job, Candidate, User, UserRole, MOCK_USERS } from './mock-data';
+export type { UserRole };
 import { fetchJobs } from './api/jobs';
 import { fetchAllCandidates } from './api/candidates';
 import { fetchCurrentUser } from './api/auth';
