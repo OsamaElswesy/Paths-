@@ -198,7 +198,7 @@ export const REPORT_DATA = {
     ]
 };
 
-export type UserRole = 'ADMIN' | 'RECRUITER' | 'HIRING_MANAGER' | 'INTERVIEWER';
+export type UserRole = 'ADMIN' | 'RECRUITER' | 'HIRING_MANAGER' | 'INTERVIEWER' | 'CANDIDATE';
 
 export interface User {
     id: string;
