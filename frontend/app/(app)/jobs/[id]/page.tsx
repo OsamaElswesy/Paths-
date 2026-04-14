@@ -7,7 +7,7 @@ import { Badge } from '@/components/ui/Badge';
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/Card';
 import { Braces, MapPin, Briefcase, Star, Cpu, ArrowRight, Users, CheckCircle2, Unlock, Send, Calendar, Zap, Award, Plus } from 'lucide-react';
 import { useParams } from 'next/navigation';
-import { CandidateBoard } from '@/components/jobs/CandidateBoard';
+import { CandidateBoard } from '@/components/features/candidates/CandidateBoard';
 import { cn } from '@/lib/utils';
 import { Button } from '@/components/ui/Button';
 
