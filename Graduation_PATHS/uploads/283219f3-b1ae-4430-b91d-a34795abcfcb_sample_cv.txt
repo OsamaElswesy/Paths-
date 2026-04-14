@@ -1,0 +1,28 @@
+John Doe
+Email: john.doe@example.com
+Phone: +1-555-987-6543
+Location: New York, NY
+
+SUMMARY
+Full-stack developer with 5 years of experience in web development,
+specializing in Python backend systems and React frontends.
+
+EXPERIENCE
+Software Engineer, Acme Corp (2020-2023)
+- Built scalable REST APIs using FastAPI and PostgreSQL
+- Implemented CI/CD pipelines with GitHub Actions
+- Led migration from monolith to microservices
+
+Junior Developer, TechStart (2018-2020)
+- Developed frontend applications using React and TypeScript
+- Created automated testing suites with pytest
+
+EDUCATION
+B.S. Computer Science, Columbia University (2014-2018)
+
+SKILLS
+Python, FastAPI, React, TypeScript, PostgreSQL, Docker, Kubernetes,
+AWS, Git, REST APIs, GraphQL, Redis, MongoDB
+
+CERTIFICATIONS
+AWS Certified Developer - Associate (2021)

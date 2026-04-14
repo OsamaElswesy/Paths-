@@ -1,0 +1,38 @@
+.header {
+    height: var(--header-height);
+    background-color: white;
+    border-bottom: 1px solid var(--surface-100);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2rem;
+    position: sticky;
+    top: 0;
+    z-index: 30;
+}
+
+.searchContainer {
+    width: 24rem;
+}
+
+.actions {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.iconButton {
+    color: var(--surface-500);
+    padding: 0.5rem;
+    border-radius: var(--radius-full);
+    transition: all var(--transition-fast);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.iconButton:hover {
+    background-color: var(--surface-100);
+    color: var(--surface-900);
+}

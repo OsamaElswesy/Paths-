@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python --version)",
+      "Bash(py --version)",
+      "Bash(ls .venv)",
+      "Bash(ls venv:*)",
+      "Bash(cmd /c \"taskkill /F /IM node.exe\")",
+      "Bash(echo \"exit:$?\")"
+    ]
+  }
+}

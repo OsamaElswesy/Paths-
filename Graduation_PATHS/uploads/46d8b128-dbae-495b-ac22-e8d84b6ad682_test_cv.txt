@@ -1,0 +1,25 @@
+John Smith
+Email: john.smith@example.com
+Phone: +1-555-123-4567
+Location: San Francisco, CA
+
+SUMMARY
+Senior backend engineer with 6 years of experience in distributed systems.
+
+EXPERIENCE
+Senior Engineer, Google (2021-2024)
+- Designed microservices for YouTube infrastructure
+- Led team of 5 engineers
+
+Software Engineer, Amazon (2018-2021)
+- Built AWS Lambda scaling systems
+
+EDUCATION
+M.S. Computer Science, Stanford University (2016-2018)
+B.S. Computer Science, MIT (2012-2016)
+
+SKILLS
+Python, Go, Kubernetes, Docker, AWS, GCP, PostgreSQL, Redis, Kafka
+
+CERTIFICATIONS
+AWS Solutions Architect Professional (2022)

@@ -1,0 +1,26 @@
+Jane Williams
+Email: jane.williams@gmail.com
+Phone: +20-100-555-7890
+Location: Cairo, Egypt
+
+SUMMARY
+Data scientist with 4 years of experience in machine learning and NLP.
+
+EXPERIENCE
+Senior Data Scientist, Vodafone Egypt (2022-2024)
+- Built NLP models for Arabic text classification
+- Deployed ML pipelines on Kubernetes
+
+Data Analyst, Microsoft (2020-2022)
+- Created dashboards with Power BI
+- Automated ETL workflows with Python
+
+EDUCATION
+M.S. Data Science, Cairo University (2018-2020)
+B.S. Computer Engineering, Ain Shams University (2014-2018)
+
+SKILLS
+Python, TensorFlow, PyTorch, Scikit-learn, NLP, SQL, Kubernetes, Docker, Power BI
+
+CERTIFICATIONS
+Google Professional Machine Learning Engineer (2023)

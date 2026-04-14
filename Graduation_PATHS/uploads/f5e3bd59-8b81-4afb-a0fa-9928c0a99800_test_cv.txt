@@ -1,0 +1,48 @@
+
+John Michael Smith
+Email: john.smith@example.com
+Phone: +1-555-123-4567
+Location: San Francisco, CA, USA
+LinkedIn: https://linkedin.com/in/johnsmith
+
+PROFESSIONAL SUMMARY
+Experienced Senior Software Engineer with 8+ years of experience in building
+scalable web applications and distributed systems. Strong expertise in Python,
+cloud architecture, and machine learning pipelines.
+
+WORK EXPERIENCE
+
+Senior Software Engineer | Google LLC
+January 2021 - Present
+- Led development of internal ML pipeline serving 100M+ daily predictions
+- Designed microservices architecture using Python, gRPC, and Kubernetes
+- Mentored team of 5 junior engineers
+
+Software Engineer | Meta Platforms
+June 2018 - December 2020
+- Built real-time data processing systems using Apache Kafka and Python
+- Implemented recommendation algorithms improving engagement by 15%
+- Contributed to open-source React Native framework
+
+Junior Developer | Startup Inc
+March 2016 - May 2018
+- Developed RESTful APIs using Flask and PostgreSQL
+- Implemented CI/CD pipelines with Jenkins and Docker
+
+EDUCATION
+
+Master of Science in Computer Science
+Stanford University, 2014 - 2016
+
+Bachelor of Science in Software Engineering
+MIT, 2010 - 2014
+
+SKILLS
+Python, JavaScript, TypeScript, Go, SQL, PostgreSQL, MongoDB, Redis,
+Docker, Kubernetes, AWS, GCP, React, FastAPI, Flask, Machine Learning,
+TensorFlow, PyTorch, Apache Kafka, gRPC, REST APIs, Git, CI/CD
+
+CERTIFICATIONS
+AWS Solutions Architect - Professional (Amazon, 2022)
+Google Cloud Professional Data Engineer (Google, 2021)
+Certified Kubernetes Administrator (CNCF, 2020)
