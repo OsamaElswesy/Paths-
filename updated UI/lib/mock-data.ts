@@ -198,10 +198,12 @@ export const REPORT_DATA = {
     ]
 };
 
+export type UserRole = 'ADMIN' | 'RECRUITER' | 'HIRING_MANAGER' | 'INTERVIEWER';
+
 export interface User {
     id: string;
     name: string;
-    role: 'Admin' | 'Recruiter' | 'Hiring Manager';
+    role: UserRole | string;
     email: string;
     phone: string;
     avatar?: string;
